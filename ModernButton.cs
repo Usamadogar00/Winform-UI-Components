@@ -2,7 +2,7 @@ using System.ComponentModel;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 
-namespace HeartSender.Components
+namespace UI.Components
 {
     public enum IconAnimationType
     {
@@ -2592,4 +2592,5 @@ namespace HeartSender.Components
             base.Dispose(disposing);
         }
     }
+
 }
